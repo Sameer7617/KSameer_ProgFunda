@@ -1,6 +1,5 @@
 package sameer;
 
-
 public class AdminDepartment extends SuperDepartment {
     @Override
     public String departmentName() {
