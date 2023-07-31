@@ -1,6 +1,5 @@
 package sameer;
 
-
 public class Main {
     public static void main(String[] args) {
         AdminDepartment adminDept = new AdminDepartment();
