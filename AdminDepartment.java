@@ -1,4 +1,4 @@
-package sampath;
+package sameer;
 
 
 public class AdminDepartment extends SuperDepartment {
